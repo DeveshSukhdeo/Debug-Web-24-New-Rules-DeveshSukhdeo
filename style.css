@@ -1,0 +1,25 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: lightslategray;
+} /*Added a background color*/
+
+h1 {
+  color: deepskyblue;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*Added 3 different rule sets for h1*/
+h3 {
+  color: lightblue;
+  text-align: left;
+  font-family: cursive;
+}
+/*Added 3 different rule sets for h3*/
+p {
+  color:antiquewhite;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*Added 3 different rule sets for paragraph*/
